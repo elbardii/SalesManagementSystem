@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetBarCode" targetNamespace="http://tempuri.org/DataSetBarCode.xsd" xmlns:mstns="http://tempuri.org/DataSetBarCode.xsd" xmlns="http://tempuri.org/DataSetBarCode.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetBarCode" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetBarCode" msprop:Generator_UserDSName="DataSetBarCode">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="PrintBarCode" msprop:Generator_TableClassName="PrintBarCodeDataTable" msprop:Generator_TableVarName="tablePrintBarCode" msprop:Generator_RowChangedName="PrintBarCodeRowChanged" msprop:Generator_TablePropName="PrintBarCode" msprop:Generator_RowDeletingName="PrintBarCodeRowDeleting" msprop:Generator_RowChangingName="PrintBarCodeRowChanging" msprop:Generator_RowEvHandlerName="PrintBarCodeRowChangeEventHandler" msprop:Generator_RowDeletedName="PrintBarCodeRowDeleted" msprop:Generator_RowClassName="PrintBarCodeRow" msprop:Generator_UserTableName="PrintBarCode" msprop:Generator_RowEvArgName="PrintBarCodeRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Pro_Name" msprop:Generator_ColumnVarNameInTable="columnPro_Name" msprop:Generator_ColumnPropNameInRow="Pro_Name" msprop:Generator_ColumnPropNameInTable="Pro_NameColumn" msprop:Generator_UserColumnName="Pro_Name" type="xs:string" minOccurs="0" />
+              <xs:element name="Pro_Price" msprop:Generator_ColumnVarNameInTable="columnPro_Price" msprop:Generator_ColumnPropNameInRow="Pro_Price" msprop:Generator_ColumnPropNameInTable="Pro_PriceColumn" msprop:Generator_UserColumnName="Pro_Price" type="xs:string" minOccurs="0" />
+              <xs:element name="Pro_BarCode" msprop:Generator_ColumnVarNameInTable="columnPro_BarCode" msprop:Generator_ColumnPropNameInRow="Pro_BarCode" msprop:Generator_ColumnPropNameInTable="Pro_BarCodeColumn" msprop:Generator_UserColumnName="Pro_BarCode" type="xs:string" minOccurs="0" />
+              <xs:element name="Pro_BarCode2" msprop:Generator_ColumnVarNameInTable="columnPro_BarCode2" msprop:Generator_ColumnPropNameInRow="Pro_BarCode2" msprop:Generator_ColumnPropNameInTable="Pro_BarCode2Column" msprop:Generator_UserColumnName="Pro_BarCode2" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

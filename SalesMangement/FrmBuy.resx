@@ -1,0 +1,1254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="CbxSupplierBuy.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 14px, style=Bold</value>
+  </data>
+  <data name="CbxSupplierBuy.Hint" xml:space="preserve">
+    <value>Supplier Name </value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="CbxSupplierBuy.IntegralHeight" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="CbxSupplierBuy.ItemHeight" type="System.Int32, mscorlib">
+    <value>43</value>
+  </data>
+  <data name="CbxSupplierBuy.Location" type="System.Drawing.Point, System.Drawing">
+    <value>744, 72</value>
+  </data>
+  <data name="CbxSupplierBuy.MaxDropDownItems" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="CbxSupplierBuy.Size" type="System.Drawing.Size, System.Drawing">
+    <value>211, 49</value>
+  </data>
+  <data name="CbxSupplierBuy.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;CbxSupplierBuy.Name" xml:space="preserve">
+    <value>CbxSupplierBuy</value>
+  </data>
+  <data name="&gt;&gt;CbxSupplierBuy.Type" xml:space="preserve">
+    <value>MaterialSkin.Controls.MaterialComboBox, MaterialSkin, Version=2.3.1.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;CbxSupplierBuy.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;CbxSupplierBuy.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="CbxItemsProBuy.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 14px, style=Bold</value>
+  </data>
+  <data name="CbxItemsProBuy.Hint" xml:space="preserve">
+    <value>Choose a Product </value>
+  </data>
+  <data name="CbxItemsProBuy.IntegralHeight" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="CbxItemsProBuy.ItemHeight" type="System.Int32, mscorlib">
+    <value>43</value>
+  </data>
+  <data name="CbxItemsProBuy.Location" type="System.Drawing.Point, System.Drawing">
+    <value>513, 71</value>
+  </data>
+  <data name="CbxItemsProBuy.MaxDropDownItems" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="CbxItemsProBuy.Size" type="System.Drawing.Size, System.Drawing">
+    <value>211, 49</value>
+  </data>
+  <data name="CbxItemsProBuy.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;CbxItemsProBuy.Name" xml:space="preserve">
+    <value>CbxItemsProBuy</value>
+  </data>
+  <data name="&gt;&gt;CbxItemsProBuy.Type" xml:space="preserve">
+    <value>MaterialSkin.Controls.MaterialComboBox, MaterialSkin, Version=2.3.1.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;CbxItemsProBuy.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;CbxItemsProBuy.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>83, 42</value>
+  </data>
+  <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>174, 27</value>
+  </data>
+  <data name="panel1.TabIndex" type="System.Int32, mscorlib">
+    <value>38</value>
+  </data>
+  <data name="&gt;&gt;panel1.Name" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;panel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel1.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;panel1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="dateTime.Location" type="System.Drawing.Point, System.Drawing">
+    <value>83, 45</value>
+  </data>
+  <data name="dateTime.Size" type="System.Drawing.Size, System.Drawing">
+    <value>161, 22</value>
+  </data>
+  <data name="dateTime.TabIndex" type="System.Int32, mscorlib">
+    <value>37</value>
+  </data>
+  <data name="&gt;&gt;dateTime.Name" xml:space="preserve">
+    <value>dateTime</value>
+  </data>
+  <data name="&gt;&gt;dateTime.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DateTimePicker, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dateTime.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;dateTime.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="rbtnDefePay.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="rbtnDefePay.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="rbtnDefePay.Location" type="System.Drawing.Point, System.Drawing">
+    <value>288, 13</value>
+  </data>
+  <data name="rbtnDefePay.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="rbtnDefePay.Size" type="System.Drawing.Size, System.Drawing">
+    <value>162, 37</value>
+  </data>
+  <data name="rbtnDefePay.TabIndex" type="System.Int32, mscorlib">
+    <value>36</value>
+  </data>
+  <data name="rbtnDefePay.Text" xml:space="preserve">
+    <value>Deferred Payment</value>
+  </data>
+  <data name="&gt;&gt;rbtnDefePay.Name" xml:space="preserve">
+    <value>rbtnDefePay</value>
+  </data>
+  <data name="&gt;&gt;rbtnDefePay.Type" xml:space="preserve">
+    <value>MaterialSkin.Controls.MaterialRadioButton, MaterialSkin, Version=2.3.1.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;rbtnDefePay.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;rbtnDefePay.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="lblduedate.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblduedate.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Roboto, 14px</value>
+  </data>
+  <data name="lblduedate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 75</value>
+  </data>
+  <data name="lblduedate.Size" type="System.Drawing.Size, System.Drawing">
+    <value>70, 19</value>
+  </data>
+  <data name="lblduedate.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="lblduedate.Text" xml:space="preserve">
+    <value>due date :</value>
+  </data>
+  <data name="&gt;&gt;lblduedate.Name" xml:space="preserve">
+    <value>lblduedate</value>
+  </data>
+  <data name="&gt;&gt;lblduedate.Type" xml:space="preserve">
+    <value>MaterialSkin.Controls.MaterialLabel, MaterialSkin, Version=2.3.1.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lblduedate.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;lblduedate.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lblDate.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblDate.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Roboto, 14px</value>
+  </data>
+  <data name="lblDate.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblDate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 13</value>
+  </data>
+  <data name="lblDate.Size" type="System.Drawing.Size, System.Drawing">
+    <value>58, 19</value>
+  </data>
+  <data name="lblDate.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="lblDate.Text" xml:space="preserve">
+    <value>Date     :</value>
+  </data>
+  <data name="&gt;&gt;lblDate.Name" xml:space="preserve">
+    <value>lblDate</value>
+  </data>
+  <data name="&gt;&gt;lblDate.Type" xml:space="preserve">
+    <value>MaterialSkin.Controls.MaterialLabel, MaterialSkin, Version=2.3.1.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lblDate.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;lblDate.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="rbtnCash.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="rbtnCash.Location" type="System.Drawing.Point, System.Drawing">
+    <value>288, 66</value>
+  </data>
+  <data name="rbtnCash.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="rbtnCash.Size" type="System.Drawing.Size, System.Drawing">
+    <value>102, 37</value>
+  </data>
+  <data name="rbtnCash.TabIndex" type="System.Int32, mscorlib">
+    <value>35</value>
+  </data>
+  <data name="rbtnCash.Text" xml:space="preserve">
+    <value>Pay Cash</value>
+  </data>
+  <data name="&gt;&gt;rbtnCash.Name" xml:space="preserve">
+    <value>rbtnCash</value>
+  </data>
+  <data name="&gt;&gt;rbtnCash.Type" xml:space="preserve">
+    <value>MaterialSkin.Controls.MaterialRadioButton, MaterialSkin, Version=2.3.1.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;rbtnCash.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;rbtnCash.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="DtpdateDueBuy.Location" type="System.Drawing.Point, System.Drawing">
+    <value>83, 73</value>
+  </data>
+  <data name="DtpdateDueBuy.Size" type="System.Drawing.Size, System.Drawing">
+    <value>176, 22</value>
+  </data>
+  <data name="DtpdateDueBuy.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="&gt;&gt;DtpdateDueBuy.Name" xml:space="preserve">
+    <value>DtpdateDueBuy</value>
+  </data>
+  <data name="&gt;&gt;DtpdateDueBuy.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DateTimePicker, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;DtpdateDueBuy.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;DtpdateDueBuy.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="DtpDateBuy.Location" type="System.Drawing.Point, System.Drawing">
+    <value>83, 12</value>
+  </data>
+  <data name="DtpDateBuy.Size" type="System.Drawing.Size, System.Drawing">
+    <value>176, 22</value>
+  </data>
+  <data name="DtpDateBuy.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="&gt;&gt;DtpDateBuy.Name" xml:space="preserve">
+    <value>DtpDateBuy</value>
+  </data>
+  <data name="&gt;&gt;DtpDateBuy.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DateTimePicker, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;DtpDateBuy.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;DtpDateBuy.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="groupBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 72</value>
+  </data>
+  <data name="groupBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>462, 111</value>
+  </data>
+  <data name="groupBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Name" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="txtBarcodeBuy.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="txtBarcodeBuy.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 16px</value>
+  </data>
+  <data name="txtBarcodeBuy.Hint" xml:space="preserve">
+    <value>Barcode </value>
+  </data>
+  <data name="txtBarcodeBuy.Location" type="System.Drawing.Point, System.Drawing">
+    <value>244, 547</value>
+  </data>
+  <data name="txtBarcodeBuy.PrefixSuffixText" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="txtBarcodeBuy.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>No</value>
+  </data>
+  <data name="txtBarcodeBuy.Size" type="System.Drawing.Size, System.Drawing">
+    <value>290, 48</value>
+  </data>
+  <data name="txtBarcodeBuy.TabIndex" type="System.Int32, mscorlib">
+    <value>21</value>
+  </data>
+  <data name="&gt;&gt;txtBarcodeBuy.Name" xml:space="preserve">
+    <value>txtBarcodeBuy</value>
+  </data>
+  <data name="&gt;&gt;txtBarcodeBuy.Type" xml:space="preserve">
+    <value>MaterialSkin.Controls.MaterialMaskedTextBox, MaterialSkin, Version=2.3.1.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;txtBarcodeBuy.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txtBarcodeBuy.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="txtInvoiceIdBuy.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="txtInvoiceIdBuy.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 16px</value>
+  </data>
+  <data name="txtInvoiceIdBuy.Hint" xml:space="preserve">
+    <value>Invoice Number </value>
+  </data>
+  <data name="txtInvoiceIdBuy.Location" type="System.Drawing.Point, System.Drawing">
+    <value>513, 132</value>
+  </data>
+  <data name="txtInvoiceIdBuy.PrefixSuffixText" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="txtInvoiceIdBuy.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>No</value>
+  </data>
+  <data name="txtInvoiceIdBuy.Size" type="System.Drawing.Size, System.Drawing">
+    <value>211, 48</value>
+  </data>
+  <data name="txtInvoiceIdBuy.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;txtInvoiceIdBuy.Name" xml:space="preserve">
+    <value>txtInvoiceIdBuy</value>
+  </data>
+  <data name="&gt;&gt;txtInvoiceIdBuy.Type" xml:space="preserve">
+    <value>MaterialSkin.Controls.MaterialMaskedTextBox, MaterialSkin, Version=2.3.1.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;txtInvoiceIdBuy.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txtInvoiceIdBuy.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="btnAddSupBuy.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="btnAddSupBuy.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
+    <value>GrowAndShrink</value>
+  </data>
+  <data name="btnAddSupBuy.Icon" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
+        DAAACwwBP0AiyAAABJ9JREFUaEPtmNmrVWUYh49WZqOlFc0ZDSRhhV4aSRfeRNlcYNKFEv0RKkgWNBAN
+        F4Y3UUiXYfQXRN100UCR0UijlWQDmc1Wz0P7B2+LvXd7rX3OVmL/4GGvs9a3vu+dvmGdmammmmqqI2D+
+        P5f/kvd8dtiqn3ELezR12DmSiB8Ft8LT8CZ8CV/BW/AM3AFxqF+WJq55vV91LeyGv/6D9+F2iGofh0z3
+        Qgz8HX7u/Tbv/VbuPQaHVCmBbaBBB6EaKN/Bt417tvmjd/04qIlnIZNwLWiIxifiXj8BV8HSHqvgEfgV
+        bGPbOOG8UBOf2EfC26ARifzXcCUM0gr4DOo7n8DxoCaSiUTqFtCAGvkY72pkiWmQeO09dTk4H6oTd4Ga
+        SBYyyE5w8F96vztAxdB+yrP7ob77HKiJLa068Qo4eDKwGtQwI/LsCvAds+bvB3AM9FPtb2wHU6Mnwcfg
+        4PITnAVqWB3n2WngJpf3f4CTQdX3c70A+u3orZUOHaw6cADOBDWKA6fCF5D398NiUGmTaK+Bd8As3eAN
+        NHYmXIFeAwdPCblUqmGd59ly8J2U0IdwLETVCXdu28geOA7UsEANVSaxZxs7zUTMzjrKJN4K9d3nQWlU
+        DcAJoNG2kX2QTKtOmYgDt4GdZin013VeWbO1c6+9py4Ga76+ezcoM6tsr/HnQC21b+ASMAtp21lG09q0
+        4+ywn8JlMEgXwXtg2xjvxnYiRNa8ZWPkNT47tlhyTn6ffQSd50SycD2k88wFN6kHwGwsAo1z87oHEvm0
+        lfWgLB+zlKBU/uzRvK8jZkq1nhNxYgtkkBot/zblkskqtokxD4FKXy6VrjZpGwY5sBcMkmrlQE3ZuWA6
+        7VBDxQg3B/Renvu3pbAMokxwy8LIOmGbznvt6dZnGp+DYKsSSrTUJvgR7FyDY3yNcvBe85nldh+kz0xM
+        J6mrjRO2bngavxJOh5ROK2WgM+BFqMZJ/s69lFCt+Tyr7V+F80FltVI60lxGNT7qFPkLwdXGDl1JspqI
+        9eu5/zq4FM4DS8xSuQas+TpJ6/sexbOCpZzMSMpTLJtOkzaemtYY79KZKLoUboRRzisatw7cfX3XPrIM
+        G+ELQDXnROear3oJmsbvAg93kZlyADFKkr/r/LE8ciR37sSJ1yHGJ8pGPatNa2XQzeAApjzGb4eozc5Y
+        2z4I9lUzUZfXGu16PZISASeYJ8444O+zELXuGPlO+n8Sat8644FPpV3atlKi/yjYcQ5f1nzO712Mj/Lu
+        0fAu1DF0StWya6V4rKE5UCVCG0CNfaBC6eNmsO8sud/DKN8YAxXPXQWq8a4es/J11JBGvgGOkblwJ6hO
+        WchLnvPtLP9JeBhU59T2UbKQ74SM9RSoTmOlPl8AO0sGbgQ1mw5krKvBMVJGL8NYcnLlH7aeX0ytO6zq
+        VJcDlL7OhkRf3IWzx7QaL42XQD7edcCDm+cgNRcOnAL+Oz4OeI4aazwPVvWj2vNK/fiebZnxOp4n0Xyt
+        tXYgdXkTfA5GJl9P46z9g5Q+nWOzNl68Huss0kJzMl71fi4i39ScjGdkOk2ijpr0eFNN9T/RzMzfi5Kn
+        cslFGCYAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="btnAddSupBuy.Location" type="System.Drawing.Point, System.Drawing">
+    <value>978, 77</value>
+  </data>
+  <data name="btnAddSupBuy.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 6, 4, 6</value>
+  </data>
+  <data name="btnAddSupBuy.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>No</value>
+  </data>
+  <data name="btnAddSupBuy.Size" type="System.Drawing.Size, System.Drawing">
+    <value>163, 36</value>
+  </data>
+  <data name="btnAddSupBuy.TabIndex" type="System.Int32, mscorlib">
+    <value>29</value>
+  </data>
+  <data name="btnAddSupBuy.Text" xml:space="preserve">
+    <value>add Supplier</value>
+  </data>
+  <data name="&gt;&gt;btnAddSupBuy.Name" xml:space="preserve">
+    <value>btnAddSupBuy</value>
+  </data>
+  <data name="&gt;&gt;btnAddSupBuy.Type" xml:space="preserve">
+    <value>MaterialSkin.Controls.MaterialButton, MaterialSkin, Version=2.3.1.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnAddSupBuy.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnAddSupBuy.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="btnShowBuy.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="btnShowBuy.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
+    <value>GrowAndShrink</value>
+  </data>
+  <data name="btnShowBuy.Icon" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
+        DAAACwwBP0AiyAAAAbxJREFUaEPtml1KxDAYRSsi+OCDO9F9CP4tTmc3swxxA/rgChT/7qnT8iWTaIdp
+        mkRy4Tw0zZRzmUTUtAvkTNyJR/EqvjKDAy734lxEcyyY9CFCDyoB3FYCVycMrEXoQyWCq1OCVqGJn+I9
+        MziE3FgtfVhX/rJ5EJfiRBxmBgdccLKOOLNf+w1rbzDxVJQWnPwSuPc73A7SttTgZl1xd35Ust74ykoN
+        bnZP4D5eAJuGdVdqcMPROjsXrUDitAK5M6nAkWBiieD2awFgQsn4vlsDtREcrIngYE04F6wxNkupwc3f
+        B85FK5A4rUDutAK50wqEciGeN1wx8Ef4u3aYz2d3yewFDgQiw+ffxK2IhXvMGeY/CZ4xNUkKIGGfESvh
+        y0P2AoQl4Yv5JULyXO/6L5wkBciNiJWIyduCU5OsAImVmEueJC1AQiUs+8iT5AVIrMS+8mSRAsQvMYc8
+        WawAuRYvGyg0RxYtkCKtQO78zwLVH3DUdMTEr+vWtT9iqv6Qj6PK0DErbfnKWHc5wYFV4cuPx6yEQ2N7
+        c4D1xqbJiV3zlvGgm1T/qgFhoIaXPXDckrcp9XUbnMY1/5Ou+wZB3IIRqBCS/QAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="btnShowBuy.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnShowBuy.Location" type="System.Drawing.Point, System.Drawing">
+    <value>541, 555</value>
+  </data>
+  <data name="btnShowBuy.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 6, 4, 6</value>
+  </data>
+  <data name="btnShowBuy.Size" type="System.Drawing.Size, System.Drawing">
+    <value>142, 36</value>
+  </data>
+  <data name="btnShowBuy.TabIndex" type="System.Int32, mscorlib">
+    <value>28</value>
+  </data>
+  <data name="btnShowBuy.Text" xml:space="preserve">
+    <value>Show</value>
+  </data>
+  <data name="&gt;&gt;btnShowBuy.Name" xml:space="preserve">
+    <value>btnShowBuy</value>
+  </data>
+  <data name="&gt;&gt;btnShowBuy.Type" xml:space="preserve">
+    <value>MaterialSkin.Controls.MaterialButton, MaterialSkin, Version=2.3.1.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnShowBuy.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnShowBuy.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="Dgvbuy.ColumnHeadersHeight" type="System.Int32, mscorlib">
+    <value>29</value>
+  </data>
+  <metadata name="Column1.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="Column1.HeaderText" xml:space="preserve">
+    <value>Product Number</value>
+  </data>
+  <data name="Column1.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <metadata name="Column2.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="Column2.HeaderText" xml:space="preserve">
+    <value>Product Name</value>
+  </data>
+  <data name="Column2.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <metadata name="Column7.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="Column7.HeaderText" xml:space="preserve">
+    <value>Unit</value>
+  </data>
+  <data name="Column7.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <metadata name="Column3.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="Column3.HeaderText" xml:space="preserve">
+    <value>Quantity</value>
+  </data>
+  <data name="Column3.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <metadata name="Column8.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="Column8.HeaderText" xml:space="preserve">
+    <value>Price Tax</value>
+  </data>
+  <data name="Column8.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <metadata name="Column5.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="Column5.HeaderText" xml:space="preserve">
+    <value>Discount</value>
+  </data>
+  <data name="Column5.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <metadata name="Column6.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="Column6.HeaderText" xml:space="preserve">
+    <value>Total</value>
+  </data>
+  <data name="Column6.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="Dgvbuy.Location" type="System.Drawing.Point, System.Drawing">
+    <value>9, 189</value>
+  </data>
+  <data name="Dgvbuy.RowHeadersWidth" type="System.Int32, mscorlib">
+    <value>51</value>
+  </data>
+  <data name="Dgvbuy.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1157, 352</value>
+  </data>
+  <data name="Dgvbuy.TabIndex" type="System.Int32, mscorlib">
+    <value>30</value>
+  </data>
+  <data name="&gt;&gt;Dgvbuy.Name" xml:space="preserve">
+    <value>Dgvbuy</value>
+  </data>
+  <data name="&gt;&gt;Dgvbuy.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Dgvbuy.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Dgvbuy.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="btnRemoveBuy.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="btnRemoveBuy.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
+    <value>GrowAndShrink</value>
+  </data>
+  <data name="btnRemoveBuy.Icon" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzACGw
+        9AAhsPQB3M9yMQAAAeJJREFUaEPtmclKxEAURdvpE9SdfoAI/orgiIL+mhsFB1y4EH/HnbpyAHFC722o
+        UJpbSVXldSdqDpxNuqr63fC6OsOgp6fn/zLRko1YgMfwAX605BO8gEswiTl4DT874j1chtGcQrVQm17C
+        KDahWqBtX2AtbJ1bqBbogrWcQDWxK1bS1dbxDdL11nEGyWmdd7gHD71jsXKX24Fv3rEYJRtQDa6Sxe9C
+        Mg1TQrD4GUj43SkhSuS2zj70iQ3hF+/YgmqssgQvFdTAOo8gi/apC6GKn4IHUI1XfiOndXxTQlgUTwus
+        dp2YEFbF04Lc1lFWhbAsng5Zh+rDJoZCWBZPB7PwxjtgqQrh07R4ato6ylAIi+LpyAOonifuN6HmpDjS
+        a55Q8Q6LEEOa7v/K0G7zs52ahiiwvO6v2ipj/idSLLBqpZh93jLEN5q2UkzxTqsQJXJbKaV4p0WIErmt
+        5O4FHHXFO1WINajGKiU598K8CeE8Elu80w+xCvm4RI1TBmFLqAlVMsQ2TCneyRA886/esRiDjPIPztJK
+        fvVjFUdOK43TWubhHVSTu2AUKU8JxmnUw13HGVSLtOkVjIa7UpdecDzCFZjEIjyHz1AtOg7ZNjzzycX7
+        8GUbr3vacBL29PT8DQaDL4YdKWefEJdUAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="btnRemoveBuy.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1018, 555</value>
+  </data>
+  <data name="btnRemoveBuy.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 6, 4, 6</value>
+  </data>
+  <data name="btnRemoveBuy.Size" type="System.Drawing.Size, System.Drawing">
+    <value>142, 36</value>
+  </data>
+  <data name="btnRemoveBuy.TabIndex" type="System.Int32, mscorlib">
+    <value>34</value>
+  </data>
+  <data name="btnRemoveBuy.Text" xml:space="preserve">
+    <value>Remove</value>
+  </data>
+  <data name="btnRemoveBuy.TextImageRelation" type="System.Windows.Forms.TextImageRelation, System.Windows.Forms">
+    <value>ImageAboveText</value>
+  </data>
+  <data name="&gt;&gt;btnRemoveBuy.Name" xml:space="preserve">
+    <value>btnRemoveBuy</value>
+  </data>
+  <data name="&gt;&gt;btnRemoveBuy.Type" xml:space="preserve">
+    <value>MaterialSkin.Controls.MaterialButton, MaterialSkin, Version=2.3.1.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnRemoveBuy.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnRemoveBuy.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="lblTotalall.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblTotalall.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Roboto, 14px</value>
+  </data>
+  <data name="lblTotalall.Location" type="System.Drawing.Point, System.Drawing">
+    <value>31, 568</value>
+  </data>
+  <data name="lblTotalall.Size" type="System.Drawing.Size, System.Drawing">
+    <value>68, 19</value>
+  </data>
+  <data name="lblTotalall.TabIndex" type="System.Int32, mscorlib">
+    <value>43</value>
+  </data>
+  <data name="lblTotalall.Text" xml:space="preserve">
+    <value>Total All :</value>
+  </data>
+  <data name="&gt;&gt;lblTotalall.Name" xml:space="preserve">
+    <value>lblTotalall</value>
+  </data>
+  <data name="&gt;&gt;lblTotalall.Type" xml:space="preserve">
+    <value>MaterialSkin.Controls.MaterialLabel, MaterialSkin, Version=2.3.1.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lblTotalall.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblTotalall.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
+        DAAACwwBP0AiyAAAAchJREFUWEftljtKBUEQRZ8amCiCmCmI23AF6gZEDdyEucauQlyHiRvQyAWYKSJo
+        oODfe6AvFMObYT41iXjhMENNdd1+3dUzb/Kvnpor16hpsXTNlKu1UIiq5qQpFj4Ul+KhwD0xa7RJoHPx
+        UwPPRtFsuR4LjN7Fh/gqcE+MZ+QgjxksL+eKeBSYYMr1uxBj5JCLUrbCv2Rb2Cgax4l4EuSilFXw8doT
+        bSdALko5mv4VmyKa1UEOuSitDxDFbgQGbrho6hg5qcbIBXcEJjak++MJAHLQaJNgf5+EDQ0x7326ueXC
+        q+JInBW4J4ZGM7eaOnvUDxIvlTYG5KR/C+KyLotdcSp49wP3xHhmpW2Ff/W8OBF3otqA5l6QQy4avCUu
+        sCGuhY0+RfUYEvNzchmDek8idvytoPCbiK/iKjwjh1zGpJyMC2FzrjbjPhLjzmVsL3nZDgSFWGYbTDM3
+        MYcxxKiBem0Ff7Uo4v1tMjfO8RhqdJLP8Lp4FS7axtzEfGpQC7V6P7hhtgQFaKymxqvD46hBLdSqGb1X
+        +8K/aCjUQq36wMu0Jq7Ei+BL99wRxjCWGtRCnV/RzHhJLPaEsb26H2V+UDJr/SlNJr9aovj+Pin2KAAA
+        AABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 9</value>
+  </data>
+  <data name="pictureBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>31, 24</value>
+  </data>
+  <data name="pictureBox1.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="pictureBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>44</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Name" xml:space="preserve">
+    <value>pictureBox1</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lblUserName.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblUserName.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Roboto, 14px</value>
+  </data>
+  <data name="lblUserName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>42, 11</value>
+  </data>
+  <data name="lblUserName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>74, 19</value>
+  </data>
+  <data name="lblUserName.TabIndex" type="System.Int32, mscorlib">
+    <value>45</value>
+  </data>
+  <data name="lblUserName.Text" xml:space="preserve">
+    <value>UserName</value>
+  </data>
+  <data name="&gt;&gt;lblUserName.Name" xml:space="preserve">
+    <value>lblUserName</value>
+  </data>
+  <data name="&gt;&gt;lblUserName.Type" xml:space="preserve">
+    <value>MaterialSkin.Controls.MaterialLabel, MaterialSkin, Version=2.3.1.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lblUserName.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;lblUserName.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="materialLabel2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="materialLabel2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Roboto, 14px</value>
+  </data>
+  <data name="materialLabel2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>937, 12</value>
+  </data>
+  <data name="materialLabel2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>138, 19</value>
+  </data>
+  <data name="materialLabel2.TabIndex" type="System.Int32, mscorlib">
+    <value>48</value>
+  </data>
+  <data name="materialLabel2.Text" xml:space="preserve">
+    <value>Save and print: F12</value>
+  </data>
+  <data name="&gt;&gt;materialLabel2.Name" xml:space="preserve">
+    <value>materialLabel2</value>
+  </data>
+  <data name="&gt;&gt;materialLabel2.Type" xml:space="preserve">
+    <value>MaterialSkin.Controls.MaterialLabel, MaterialSkin, Version=2.3.1.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;materialLabel2.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;materialLabel2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="lblItemsBuy.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblItemsBuy.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Roboto, 14px</value>
+  </data>
+  <data name="lblItemsBuy.Location" type="System.Drawing.Point, System.Drawing">
+    <value>219, 12</value>
+  </data>
+  <data name="lblItemsBuy.Size" type="System.Drawing.Size, System.Drawing">
+    <value>13, 19</value>
+  </data>
+  <data name="lblItemsBuy.TabIndex" type="System.Int32, mscorlib">
+    <value>47</value>
+  </data>
+  <data name="lblItemsBuy.Text" xml:space="preserve">
+    <value>...</value>
+  </data>
+  <data name="&gt;&gt;lblItemsBuy.Name" xml:space="preserve">
+    <value>lblItemsBuy</value>
+  </data>
+  <data name="&gt;&gt;lblItemsBuy.Type" xml:space="preserve">
+    <value>MaterialSkin.Controls.MaterialLabel, MaterialSkin, Version=2.3.1.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lblItemsBuy.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;lblItemsBuy.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="materialLabel1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="materialLabel1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Roboto, 14px</value>
+  </data>
+  <data name="materialLabel1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="materialLabel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>165, 12</value>
+  </data>
+  <data name="materialLabel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>48, 19</value>
+  </data>
+  <data name="materialLabel1.TabIndex" type="System.Int32, mscorlib">
+    <value>46</value>
+  </data>
+  <data name="materialLabel1.Text" xml:space="preserve">
+    <value>Items :</value>
+  </data>
+  <data name="&gt;&gt;materialLabel1.Name" xml:space="preserve">
+    <value>materialLabel1</value>
+  </data>
+  <data name="&gt;&gt;materialLabel1.Type" xml:space="preserve">
+    <value>MaterialSkin.Controls.MaterialLabel, MaterialSkin, Version=2.3.1.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;materialLabel1.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;materialLabel1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="groupBox2.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Bottom</value>
+  </data>
+  <data name="groupBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 594</value>
+  </data>
+  <data name="groupBox2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1166, 37</value>
+  </data>
+  <data name="groupBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>46</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.Name" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="btnSaveIn.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="btnSaveIn.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
+    <value>GrowAndShrink</value>
+  </data>
+  <data name="btnSaveIn.Icon" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAUpJREFUWEft
+        1jFKxEAUh/FYKQh2biF4CGERa92T6EEEz2Btp+jiAay8jL0uLgqKMv7fzKdgwpuJmsEmP3jN5nuZdDvN
+        aNQWQphoLjX3mr+w/Smv7U9L13F9GA+aXV7djxaWcTWEO838F9O20Ozx+rK0E8356UfYbXvSHJDkpT4a
+        8gOMfcSMzJfaaOgPMEsyH6Gp8QGBzEdn/v0DquAYH101HOOjq4ZjfHTVcIyPrhqO8dGVvGnONYeaI82F
+        5l1TxDE+upwXzT75F/0207xakEPuo8s5Ju3Qs5OU+Eh9dDlbpB16tp0SH6mPLmeVtEPP1lLiI/XR5eyQ
+        dujZNCU+Uh9dzhXpN/p9RXMTiwxyH13JqWadFdvZ0JzZgxJWfGo+r2Qldt+7Zeza1ccjx/gUDXkpbSv/
+        xSuya7ldLp9tYyB2HbOr/ibHjEZomg/K3yM6siaF5gAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="btnSaveIn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnSaveIn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>859, 555</value>
+  </data>
+  <data name="btnSaveIn.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 6, 4, 6</value>
+  </data>
+  <data name="btnSaveIn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>142, 36</value>
+  </data>
+  <data name="btnSaveIn.TabIndex" type="System.Int32, mscorlib">
+    <value>47</value>
+  </data>
+  <data name="btnSaveIn.Text" xml:space="preserve">
+    <value>Save  invoice</value>
+  </data>
+  <data name="btnSaveIn.TextImageRelation" type="System.Windows.Forms.TextImageRelation, System.Windows.Forms">
+    <value>ImageAboveText</value>
+  </data>
+  <data name="&gt;&gt;btnSaveIn.Name" xml:space="preserve">
+    <value>btnSaveIn</value>
+  </data>
+  <data name="&gt;&gt;btnSaveIn.Type" xml:space="preserve">
+    <value>MaterialSkin.Controls.MaterialButton, MaterialSkin, Version=2.3.1.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnSaveIn.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnSaveIn.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="btnEdit.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="btnEdit.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
+    <value>GrowAndShrink</value>
+  </data>
+  <data name="btnEdit.Icon" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        vAAADrwBlbxySQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAFnSURBVEhL7ZbN
+        SsQwFEa78OcJFN3o6/i78WlEl+oT+DC6FVfiCKKgoE+goDtFV/qdmouhk+ZmZjq66YHDNLlpvjSBTque
+        jpiVG3I9XP8Ji3Igv4KXoW+qEHArCXwIck2fG74tWeWntFU3PZdNmPhNUr8P7Xgh7ELrtm/JOKDNZnAc
+        gBYM/D5K+tfoSMGTMmBXztFRQBxK4F10vSyLgm17xwm1c1yQN6GPM2YBXPNQMzIJA7CEOIDJl6TBAiww
+        VR+iNDgXCtRty99lNhRKgktCc/UkJcFXkjF2pjGpMy/CC16R1F9kZ6HgBe9I6id165extjfGCz6S1A/q
+        1g8Th4IXzJNSP5aHof0a+lLbyxsu9Xodwgt+kjYm9lqmztTqLt7AM/ksTyXbzpmvyjY6Cx6VPriVfwse
+        9W8xx7xkro+65WAfAntyknDu3ZfMdUGHx6ZkcJfymVsE4awy97Hnyb3MURzaMyWq6htKWcv3Tv2l+AAA
+        AABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="btnEdit.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnEdit.Location" type="System.Drawing.Point, System.Drawing">
+    <value>700, 555</value>
+  </data>
+  <data name="btnEdit.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 6, 4, 6</value>
+  </data>
+  <data name="btnEdit.Size" type="System.Drawing.Size, System.Drawing">
+    <value>142, 36</value>
+  </data>
+  <data name="btnEdit.TabIndex" type="System.Int32, mscorlib">
+    <value>48</value>
+  </data>
+  <data name="btnEdit.Text" xml:space="preserve">
+    <value>edit</value>
+  </data>
+  <data name="btnEdit.TextImageRelation" type="System.Windows.Forms.TextImageRelation, System.Windows.Forms">
+    <value>ImageAboveText</value>
+  </data>
+  <data name="&gt;&gt;btnEdit.Name" xml:space="preserve">
+    <value>btnEdit</value>
+  </data>
+  <data name="&gt;&gt;btnEdit.Type" xml:space="preserve">
+    <value>MaterialSkin.Controls.MaterialButton, MaterialSkin, Version=2.3.1.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnEdit.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnEdit.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="txtTotalAll.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="txtTotalAll.Location" type="System.Drawing.Point, System.Drawing">
+    <value>112, 547</value>
+  </data>
+  <data name="txtTotalAll.Size" type="System.Drawing.Size, System.Drawing">
+    <value>126, 48</value>
+  </data>
+  <data name="txtTotalAll.TabIndex" type="System.Int32, mscorlib">
+    <value>70</value>
+  </data>
+  <data name="&gt;&gt;txtTotalAll.Name" xml:space="preserve">
+    <value>txtTotalAll</value>
+  </data>
+  <data name="&gt;&gt;txtTotalAll.Type" xml:space="preserve">
+    <value>MaterialSkin.Controls.MaterialMultiLineTextBox2, MaterialSkin, Version=2.3.1.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;txtTotalAll.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txtTotalAll.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="cbxChooseWarehouse.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 14px, style=Bold</value>
+  </data>
+  <data name="cbxChooseWarehouse.Hint" xml:space="preserve">
+    <value>Choose a Warehouse</value>
+  </data>
+  <data name="cbxChooseWarehouse.IntegralHeight" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="cbxChooseWarehouse.ItemHeight" type="System.Int32, mscorlib">
+    <value>43</value>
+  </data>
+  <data name="cbxChooseWarehouse.Location" type="System.Drawing.Point, System.Drawing">
+    <value>744, 131</value>
+  </data>
+  <data name="cbxChooseWarehouse.MaxDropDownItems" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="cbxChooseWarehouse.Size" type="System.Drawing.Size, System.Drawing">
+    <value>211, 49</value>
+  </data>
+  <data name="cbxChooseWarehouse.TabIndex" type="System.Int32, mscorlib">
+    <value>71</value>
+  </data>
+  <data name="&gt;&gt;cbxChooseWarehouse.Name" xml:space="preserve">
+    <value>cbxChooseWarehouse</value>
+  </data>
+  <data name="&gt;&gt;cbxChooseWarehouse.Type" xml:space="preserve">
+    <value>MaterialSkin.Controls.MaterialComboBox, MaterialSkin, Version=2.3.1.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;cbxChooseWarehouse.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;cbxChooseWarehouse.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="materialButton1.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="materialButton1.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
+    <value>GrowAndShrink</value>
+  </data>
+  <data name="materialButton1.Icon" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
+        DAAACwwBP0AiyAAABJ9JREFUaEPtmNmrVWUYh49WZqOlFc0ZDSRhhV4aSRfeRNlcYNKFEv0RKkgWNBAN
+        F4Y3UUiXYfQXRN100UCR0UijlWQDmc1Wz0P7B2+LvXd7rX3OVmL/4GGvs9a3vu+dvmGdmammmmqqI2D+
+        P5f/kvd8dtiqn3ELezR12DmSiB8Ft8LT8CZ8CV/BW/AM3AFxqF+WJq55vV91LeyGv/6D9+F2iGofh0z3
+        Qgz8HX7u/Tbv/VbuPQaHVCmBbaBBB6EaKN/Bt417tvmjd/04qIlnIZNwLWiIxifiXj8BV8HSHqvgEfgV
+        bGPbOOG8UBOf2EfC26ARifzXcCUM0gr4DOo7n8DxoCaSiUTqFtCAGvkY72pkiWmQeO09dTk4H6oTd4Ga
+        SBYyyE5w8F96vztAxdB+yrP7ob77HKiJLa068Qo4eDKwGtQwI/LsCvAds+bvB3AM9FPtb2wHU6Mnwcfg
+        4PITnAVqWB3n2WngJpf3f4CTQdX3c70A+u3orZUOHaw6cADOBDWKA6fCF5D398NiUGmTaK+Bd8As3eAN
+        NHYmXIFeAwdPCblUqmGd59ly8J2U0IdwLETVCXdu28geOA7UsEANVSaxZxs7zUTMzjrKJN4K9d3nQWlU
+        DcAJoNG2kX2QTKtOmYgDt4GdZin013VeWbO1c6+9py4Ga76+ezcoM6tsr/HnQC21b+ASMAtp21lG09q0
+        4+ywn8JlMEgXwXtg2xjvxnYiRNa8ZWPkNT47tlhyTn6ffQSd50SycD2k88wFN6kHwGwsAo1z87oHEvm0
+        lfWgLB+zlKBU/uzRvK8jZkq1nhNxYgtkkBot/zblkskqtokxD4FKXy6VrjZpGwY5sBcMkmrlQE3ZuWA6
+        7VBDxQg3B/Renvu3pbAMokxwy8LIOmGbznvt6dZnGp+DYKsSSrTUJvgR7FyDY3yNcvBe85nldh+kz0xM
+        J6mrjRO2bngavxJOh5ROK2WgM+BFqMZJ/s69lFCt+Tyr7V+F80FltVI60lxGNT7qFPkLwdXGDl1JspqI
+        9eu5/zq4FM4DS8xSuQas+TpJ6/sexbOCpZzMSMpTLJtOkzaemtYY79KZKLoUboRRzisatw7cfX3XPrIM
+        G+ELQDXnROear3oJmsbvAg93kZlyADFKkr/r/LE8ciR37sSJ1yHGJ8pGPatNa2XQzeAApjzGb4eozc5Y
+        2z4I9lUzUZfXGu16PZISASeYJ8444O+zELXuGPlO+n8Sat8644FPpV3atlKi/yjYcQ5f1nzO712Mj/Lu
+        0fAu1DF0StWya6V4rKE5UCVCG0CNfaBC6eNmsO8sud/DKN8YAxXPXQWq8a4es/J11JBGvgGOkblwJ6hO
+        WchLnvPtLP9JeBhU59T2UbKQ74SM9RSoTmOlPl8AO0sGbgQ1mw5krKvBMVJGL8NYcnLlH7aeX0ytO6zq
+        VJcDlL7OhkRf3IWzx7QaL42XQD7edcCDm+cgNRcOnAL+Oz4OeI4aazwPVvWj2vNK/fiebZnxOp4n0Xyt
+        tXYgdXkTfA5GJl9P46z9g5Q+nWOzNl68Huss0kJzMl71fi4i39ScjGdkOk2ijpr0eFNN9T/RzMzfi5Kn
+        cslFGCYAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="materialButton1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="materialButton1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>978, 140</value>
+  </data>
+  <data name="materialButton1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 6, 4, 6</value>
+  </data>
+  <data name="materialButton1.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>No</value>
+  </data>
+  <data name="materialButton1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>163, 36</value>
+  </data>
+  <data name="materialButton1.TabIndex" type="System.Int32, mscorlib">
+    <value>72</value>
+  </data>
+  <data name="materialButton1.Text" xml:space="preserve">
+    <value>add warehouse</value>
+  </data>
+  <data name="&gt;&gt;materialButton1.Name" xml:space="preserve">
+    <value>materialButton1</value>
+  </data>
+  <data name="&gt;&gt;materialButton1.Type" xml:space="preserve">
+    <value>MaterialSkin.Controls.MaterialButton, MaterialSkin, Version=2.3.1.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;materialButton1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;materialButton1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>8, 16</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1172, 634</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Buy Management</value>
+  </data>
+  <data name="&gt;&gt;Column1.Name" xml:space="preserve">
+    <value>Column1</value>
+  </data>
+  <data name="&gt;&gt;Column1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Column2.Name" xml:space="preserve">
+    <value>Column2</value>
+  </data>
+  <data name="&gt;&gt;Column2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Column7.Name" xml:space="preserve">
+    <value>Column7</value>
+  </data>
+  <data name="&gt;&gt;Column7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Column3.Name" xml:space="preserve">
+    <value>Column3</value>
+  </data>
+  <data name="&gt;&gt;Column3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Column8.Name" xml:space="preserve">
+    <value>Column8</value>
+  </data>
+  <data name="&gt;&gt;Column8.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Column5.Name" xml:space="preserve">
+    <value>Column5</value>
+  </data>
+  <data name="&gt;&gt;Column5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Column6.Name" xml:space="preserve">
+    <value>Column6</value>
+  </data>
+  <data name="&gt;&gt;Column6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>FrmBuy</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>MaterialSkin.Controls.MaterialForm, MaterialSkin, Version=2.3.1.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+</root>

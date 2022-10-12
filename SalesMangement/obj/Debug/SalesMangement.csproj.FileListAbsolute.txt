@@ -1,0 +1,221 @@
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\bin\Debug\Ui_SelesMangement.exe.config
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\bin\Debug\Ui_SelesMangement.exe
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\bin\Debug\Ui_SelesMangement.pdb
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.dll
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\bin\Debug\MaterialSkin.dll
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.pdb
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.xml
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\obj\Debug\SalesMangement.csproj.AssemblyReference.cache
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\obj\Debug\Ui_SelesMangement.FrmCustomerData.resources
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\obj\Debug\Ui_SelesMangement.FrmSuppliersData.resources
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\obj\Debug\Ui_SelesMangement.FrmDashboard.resources
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\obj\Debug\Ui_SelesMangement.FrmTypesExpenses.resources
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\obj\Debug\Ui_SelesMangement.Properties.Resources.resources
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\obj\Debug\SalesMangement.csproj.GenerateResource.cache
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\obj\Debug\SalesMangement.csproj.CoreCompileInputs.cache
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\obj\Debug\SalesMangement.csproj.CopyComplete
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\obj\Debug\Ui_SelesMangement.exe
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\obj\Debug\Ui_SelesMangement.pdb
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\bin\Debug\Ui_SelesMangement.exe.config
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\bin\Debug\Ui_SelesMangement.exe
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\bin\Debug\Ui_SelesMangement.pdb
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\bin\Debug\MaterialSkin.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.pdb
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.xml
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\obj\Debug\SalesMangement.csproj.AssemblyReference.cache
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\obj\Debug\Ui_SelesMangement.FrmCustomerData.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\obj\Debug\Ui_SelesMangement.FrmSuppliersData.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\obj\Debug\Ui_SelesMangement.FrmDashboard.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\obj\Debug\Ui_SelesMangement.FrmTypesExpenses.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\obj\Debug\Ui_SelesMangement.Properties.Resources.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\obj\Debug\SalesMangement.csproj.GenerateResource.cache
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\obj\Debug\SalesMangement.csproj.CoreCompileInputs.cache
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\obj\Debug\SalesMangement.csproj.CopyComplete
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\obj\Debug\Ui_SelesMangement.exe
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\Ui_SelesMangement\obj\Debug\Ui_SelesMangement.pdb
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\SalesMangement.exe.config
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\SalesMangement.exe
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\SalesMangement.pdb
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\LiveCharts.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\MaterialSkin.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\LiveCharts.pdb
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\LiveCharts.xml
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.csproj.AssemblyReference.cache
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmCustomerData.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmSuppliersData.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmDashboard.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.Properties.Resources.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.csproj.GenerateResource.cache
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.csproj.CoreCompileInputs.cache
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.csproj.CopyComplete
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.exe
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.pdb
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmExpenses.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmProductManagement.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmBuy.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\ar-SA\SalesMangement.resources.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmBuy.ar-SA.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\ar-SA\SalesMangement.resources.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmEditBuy.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmPayBuy.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmSuppliersAccounts.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmSupplierReports.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\stdole.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmPrinting.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmBuyReport.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmSalesManagement.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmEditSales.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmPaySales.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmCustomersAccounts.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\SalesMangement.exe.config
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\SalesMangement.exe
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\SalesMangement.pdb
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\ar-SA\SalesMangement.resources.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\LiveCharts.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\MaterialSkin.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\stdole.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\LiveCharts.pdb
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\LiveCharts.xml
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.csproj.AssemblyReference.cache
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmBuy.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmBuyReport.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmCustomerData.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmCustomersAccounts.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmEditBuy.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmEditSales.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmPayBuy.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmPaySales.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmPrinting.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmProductManagement.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmSalesManagement.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmSupplierReports.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmSuppliersAccounts.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmSuppliersData.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmDashboard.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmExpenses.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.Properties.Resources.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmBuy.ar-SA.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.csproj.GenerateResource.cache
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.csproj.CoreCompileInputs.cache
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\ar-SA\SalesMangement.resources.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.csproj.CopyComplete
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.exe
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.pdb
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmSalesReport.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmCustomerReports.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmSalesProfits.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmReturns.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmReturnsReport.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmSafe.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmBank.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmTransfers.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmEmployeesInformation.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmEmployeeMoney.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmEmployeeBenefits.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmEmployeesReport.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmBonds.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmBondReport.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmBackups.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\Microsoft.SqlServer.ForEachSMOEnumerator.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\Microsoft.SqlServer.MSMQTask.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.exe.config
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmUnits.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmItemGroup.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmPrintBarcode.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmPermission.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmPermissionCustomers.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmPermissionSuppliers.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmPermissionBuy.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmPermissionSales.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmPermissionReturns.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmPermissionExpenses.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmPermissionBackup.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmPermissionReports.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmGeneralSettings.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmShowProducts.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmAddWarehouse.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmWarehouse.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmTaxesReports.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmLogin.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\CircularProgressBar.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\WinFormAnimation.dll
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\CircularProgressBar.xml
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\WinFormAnimation.xml
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmSplashScreen.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmAddNewUser.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.FrmActivation.resources
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\SalesMangement.exe.manifest
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\bin\Debug\SalesMangement.application
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.exe.manifest
+C:\Users\ismail\OneDrive\Desktop\Sales Mangement Software Local\Projects Beta\Sales_Mangement_Software\SalesMangement\SalesMangement\obj\Debug\SalesMangement.application

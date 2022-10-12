@@ -1,0 +1,50 @@
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Test\Ui_SelesMangement\Ui_SelesMangement\bin\Debug\Ui_SelesMangement.exe.config
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Test\Ui_SelesMangement\Ui_SelesMangement\bin\Debug\Ui_SelesMangement.exe
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Test\Ui_SelesMangement\Ui_SelesMangement\bin\Debug\Ui_SelesMangement.pdb
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Test\Ui_SelesMangement\Ui_SelesMangement\bin\Debug\MaterialSkin.dll
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Test\Ui_SelesMangement\Ui_SelesMangement\obj\Debug\Ui_SelesMangement.csproj.AssemblyReference.cache
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Test\Ui_SelesMangement\Ui_SelesMangement\obj\Debug\Ui_SelesMangement.Properties.Resources.resources
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Test\Ui_SelesMangement\Ui_SelesMangement\obj\Debug\Ui_SelesMangement.csproj.GenerateResource.cache
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Test\Ui_SelesMangement\Ui_SelesMangement\obj\Debug\Ui_SelesMangement.csproj.CoreCompileInputs.cache
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Test\Ui_SelesMangement\Ui_SelesMangement\obj\Debug\Ui_SelesMangement.csproj.CopyComplete
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Test\Ui_SelesMangement\Ui_SelesMangement\obj\Debug\Ui_SelesMangement.exe
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Test\Ui_SelesMangement\Ui_SelesMangement\obj\Debug\Ui_SelesMangement.pdb
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Test\Ui_SelesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.dll
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Test\Ui_SelesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Test\Ui_SelesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Test\Ui_SelesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.pdb
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Test\Ui_SelesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.xml
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Test\Ui_SelesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Test\Ui_SelesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Test\Ui_SelesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Test\Ui_SelesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Test\Ui_SelesMangement\Ui_SelesMangement\obj\Debug\Ui_SelesMangement.FrmDashboard.resources
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Test\Ui_SelesMangement\Ui_SelesMangement\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Test\Ui_SelesMangement\Ui_SelesMangement\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Test\Ui_SelesMangement\Ui_SelesMangement\obj\Debug\Ui_SelesMangement.FrmCustomerData.resources
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Test\Ui_SelesMangement\Ui_SelesMangement\obj\Debug\Ui_SelesMangement.FrmSuppliersData.resources
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Seles_Mangement_Software\Ui_SelesMangement\Ui_SelesMangement\bin\Debug\Ui_SelesMangement.exe.config
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Seles_Mangement_Software\Ui_SelesMangement\Ui_SelesMangement\bin\Debug\Ui_SelesMangement.exe
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Seles_Mangement_Software\Ui_SelesMangement\Ui_SelesMangement\bin\Debug\Ui_SelesMangement.pdb
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Seles_Mangement_Software\Ui_SelesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.dll
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Seles_Mangement_Software\Ui_SelesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Seles_Mangement_Software\Ui_SelesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Seles_Mangement_Software\Ui_SelesMangement\Ui_SelesMangement\bin\Debug\MaterialSkin.dll
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Seles_Mangement_Software\Ui_SelesMangement\Ui_SelesMangement\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Seles_Mangement_Software\Ui_SelesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.pdb
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Seles_Mangement_Software\Ui_SelesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.xml
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Seles_Mangement_Software\Ui_SelesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Seles_Mangement_Software\Ui_SelesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Seles_Mangement_Software\Ui_SelesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Seles_Mangement_Software\Ui_SelesMangement\Ui_SelesMangement\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Seles_Mangement_Software\Ui_SelesMangement\Ui_SelesMangement\obj\Debug\Ui_SelesMangement.csproj.AssemblyReference.cache
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Seles_Mangement_Software\Ui_SelesMangement\Ui_SelesMangement\obj\Debug\Ui_SelesMangement.FrmCustomerData.resources
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Seles_Mangement_Software\Ui_SelesMangement\Ui_SelesMangement\obj\Debug\Ui_SelesMangement.FrmSuppliersData.resources
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Seles_Mangement_Software\Ui_SelesMangement\Ui_SelesMangement\obj\Debug\Ui_SelesMangement.FrmDashboard.resources
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Seles_Mangement_Software\Ui_SelesMangement\Ui_SelesMangement\obj\Debug\Ui_SelesMangement.Properties.Resources.resources
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Seles_Mangement_Software\Ui_SelesMangement\Ui_SelesMangement\obj\Debug\Ui_SelesMangement.csproj.GenerateResource.cache
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Seles_Mangement_Software\Ui_SelesMangement\Ui_SelesMangement\obj\Debug\Ui_SelesMangement.csproj.CoreCompileInputs.cache
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Seles_Mangement_Software\Ui_SelesMangement\Ui_SelesMangement\obj\Debug\Ui_SelesMangement.csproj.CopyComplete
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Seles_Mangement_Software\Ui_SelesMangement\Ui_SelesMangement\obj\Debug\Ui_SelesMangement.exe
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Seles_Mangement_Software\Ui_SelesMangement\Ui_SelesMangement\obj\Debug\Ui_SelesMangement.pdb
+C:\Users\ismail\OneDrive\Desktop\Seles Mangement Software\Projects Beta\Seles_Mangement_Software\Ui_SelesMangement\Ui_SelesMangement\obj\Debug\Ui_SelesMangement.FrmTypesExpenses.resources
