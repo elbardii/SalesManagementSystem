@@ -1,9 +1,6 @@
+# Sales Management System
 
 ![Logo](https://github.com/elbardii/SalesManagementSystem/blob/master/Resource/logo%20Sales%20Mangement/Logo%20(2).png)
-
-
-
-# Sales Management System
 
 Sales Management System is a desktop based applic
 ation developed on `C#` programming language.
