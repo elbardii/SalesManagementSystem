@@ -40,6 +40,7 @@ The main objectives of this project are:
 ### Dashboard
 
 ![App Screenshot](https://github.com/elbardii/SalesManagementSystem/blob/master/Screenshots/Dashboard/FrmDashbord.png)
+![App Screenshot](https://github.com/elbardii/SalesManagementSystem/blob/master/Screenshots/Dashboard/FrmDashbord2.png)
 
 ### Customers
 
